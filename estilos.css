@@ -1,0 +1,29 @@
+h1 {
+    background-color: lightblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2:hover:active {
+    background-color: rgb(182, 212, 10);
+    font-size: 30px;
+}
+
+body {
+    
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0a006b+0,0a0c72+27,81a7c6+48,97c1bc+51,01006b+75 */
+    background: #0a006b;
+    /* Old browsers */
+    background: -moz-linear-gradient(-45deg, #0a006b 0%, #0a0c72 27%, #81a7c6 48%, #97c1bc 51%, #01006b 75%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(-45deg, #0a006b 0%, #0a0c72 27%, #81a7c6 48%, #97c1bc 51%, #01006b 75%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(135deg, #0a006b 0%, #0a0c72 27%, #81a7c6 48%, #97c1bc 51%, #01006b 75%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0a006b', endColorstr='#01006b', GradientType=1);
+    /* IE6-9 fallback on horizontal gradient */
+
+
+}
+p:active{
+   color:yellow;
+}
